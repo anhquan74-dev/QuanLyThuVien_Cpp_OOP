@@ -1,0 +1,11 @@
+# QuanLyThuVien_Cpp_OOP
+Chương trình Quản lý thư viện được viết bằng C++, sử dụng kiến thức về lập trình hướng đối tượng (tính trừu tượng, tính đóng gói, tính kế thừa, tính đa hình)
+![Group6_Library Management_25211200029_25214302052](https://user-images.githubusercontent.com/96868525/147808453-9f7ff40a-4a01-4dbf-b849-2042e62cc76f.png)
+![image](https://user-images.githubusercontent.com/96868525/147807787-7494b71f-2e69-411e-85d0-90b71aaa368d.png)
+![image](https://user-images.githubusercontent.com/96868525/147807886-62651f04-59cf-41f9-b96c-8fdbf28b084e.png)
+![image](https://user-images.githubusercontent.com/96868525/147807837-11e061a0-c57f-4229-9662-b5a8212d1f78.png)
+![image](https://user-images.githubusercontent.com/96868525/147807895-67fa6e89-d819-449b-ad31-94adc34b903e.png)
+![image](https://user-images.githubusercontent.com/96868525/147807849-02a28d64-6660-479c-9d0e-6a467d05f6c9.png)
+![image](https://user-images.githubusercontent.com/96868525/147807910-5961d736-4ce8-43b3-a4b0-9ec38a127daf.png)
+![image](https://user-images.githubusercontent.com/96868525/147807868-61a86b23-465c-47d5-b6d7-e608ddb7d5ed.png)
+![image](https://user-images.githubusercontent.com/96868525/147807935-6491f8da-a3b3-4551-8f3f-08e6b9427526.png)
