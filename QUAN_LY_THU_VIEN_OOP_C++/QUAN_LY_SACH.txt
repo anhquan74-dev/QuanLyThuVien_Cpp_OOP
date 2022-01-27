@@ -1,0 +1,104 @@
+VH001
+Chi Pheo
+Nam Cao
+Bo GD va DT
+1999
+Van Hoc Viet Nam
+90000
+21
+VH002
+Lao Hac
+Nam Cao
+Viet Nam
+2000
+Van Hoc Viet Nam
+100000
+50
+KN003
+Ky Nang Song
+Thuan Huynh
+Duy Tan
+2019
+Ky Nang Song
+76000
+10
+IT001
+lap trinh C
+nguyen chien thang
+duy tan
+2016
+Cong Nghe Thong Tin
+60000
+15
+KN001
+Ky nang sinh ton
+hu van thuan
+nhi dong
+2020
+Ky Nang Song
+100000
+19
+IT002
+Lap Trinh Java
+Huynh Ba Dieu
+Duy Tan
+2016
+Cong Nghe Thong Tin
+79000
+25
+AN001
+Mon ngon thuong ngay
+Nguyen Am Thuc
+Bep Viet
+2020
+Am thuc - Nau an
+88000
+14
+YS001
+The duc moi ngay
+Tran The Thao
+The duc
+2019
+Y hoc - Suc khoe
+130000
+30
+TN003
+Nghe thuat bong da
+Tran Anh Quan
+The Thao
+2021
+The thao - Nghe thuat
+99000
+50
+NN001
+Ngu Phap Tieng Han
+Bui Xuan Giap
+Hoa Thuan
+2018
+Hoc Ngoai Ngu
+60000
+30
+TH002
+Tu Tuong HCM
+Ho Chi Minh
+Tp Ho Chi Minh
+1990
+Triet Hoc
+120000
+60
+MK001
+Nghe thuat ban hang
+Vo Thi Thu THao
+Da Nang
+2020
+Marketing - Ban hang
+70000
+15
+TT001
+Doraemon
+Ffdora Emon
+Tokyo
+2000
+Truyen Tranh
+200000
+10

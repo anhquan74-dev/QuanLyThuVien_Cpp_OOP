@@ -1,0 +1,16 @@
+NL002
+2
+VH001
+KN001
+Chi Pheo
+Ky nang sinh ton
+2 3 2020
+3 2 2020
+TE021
+2
+TT001
+AN001
+Naruto
+Mon ngon thuong ngay
+2 1 2021
+3 2 2021

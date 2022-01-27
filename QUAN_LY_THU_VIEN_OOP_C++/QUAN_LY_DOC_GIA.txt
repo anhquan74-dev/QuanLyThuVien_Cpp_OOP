@@ -1,0 +1,117 @@
+TE001
+Tran Anh Hung
+25 4 2007
+Nam
+Tam Ky
+0909250407
+27 12 2020
+6
+Tran Van Hien
+TE00013
+Huynh Thi Yen Nhi
+5 6 2007
+Nu
+Doan Trai
+1234567890
+2 3 2020
+15
+Huynh Duc Nhu
+TE011
+Huynh Thi Ca Rot
+3 2 2013
+Nu
+doan trai
+0987654321
+1 1 2021
+2
+Huynh Duc Luy
+NL003
+Nguyen Van B
+2 4 2000
+Nam
+Hai Chau
+0702434354
+23 6 2020
+15
+206846394
+NL010
+Bui Xuan Giap
+16 1 1998
+Nam
+40 DTD
+0335783043
+3 1 2021
+24
+206318803
+NL014
+Ung Nho Phi Hai
+2 1 1998
+Nam
+an phu
+0987654321
+1 2 2021
+23
+398792739
+NL005
+Tran Van Hien
+6 8 1970
+Nam
+Doan Trai
+0905817005
+12 7 2020
+13
+202749203
+NL006
+Huynh Thi Le
+10 9 1976
+Nu
+Tam Ky
+0702377787
+11 11 2020
+19
+209373492
+NL001
+Tran Anh Quan
+7 4 1998
+Nam
+Da Nang
+0362474855
+1 12 2020
+12
+206317787
+NL019
+Nguyen Duy Nhat Tan
+3 6 2001
+Khac
+25 le do
+3232323232
+4 5 2020
+23
+434343433
+NL002
+Vo Thi Thu Thao
+1 12 1999
+Nu
+Da Nang
+0963088773
+27 12 2020
+11
+206316361
+NL004
+Huynh Van Thuan
+14 9 2001
+Nam
+Thang Binh
+0824644573
+20 12 2020
+20
+207484739
+TE021
+Nguyen Van Kit
+4 2 2007
+Nam
+doan trai
+1234567890
+1 12 2020
+21
+Tran Van Hien
